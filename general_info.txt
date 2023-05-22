@@ -1,0 +1,9 @@
+FPS=30
+Music=50
+SLOT1=Slot 1
+Stat_Points=5
+HP=24
+DEF=5
+STR=10
+0
+
